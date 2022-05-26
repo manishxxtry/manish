@@ -425,7 +425,7 @@ class Main:
 			elif MaNesh in ["2", "02"]:
 				print ("  Thanks ❤️❤️")
 				exit()
-				elif MaNesh in ["1", 01"]:
+				elif MaNesh in ["1", "01"]:
 					os.system("xdg-open https://www.facebook.com/profile.php?id=100076228132003")
 					print("")
 					print("\033[1;33m Type your Facebook name in Shorts")
