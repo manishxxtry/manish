@@ -419,7 +419,7 @@ class Main:
 		print ("")
 		print ("\033[1;32m [1] First follow on Facebook")
 		print ("\033[1;33m [2] Exit")
-		MaNesh = input\033[1;36m Chose==>/033[1;33m")
+		MaNesh = input('\n\033[1;36m  Chose==>  \033[1;32m')
 		if MaNesh in [""," "]:
 			exit()
 			elif MaNesh in ["2", "02"]:
